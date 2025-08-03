@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋,I'm Keerthi Priya
 
-<!--
-**keerthipriya03/keerthipriya03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hello-cute](https://github.com/user-attachments/assets/2c90caab-0234-4adc-8ba4-ad51ff6752f0)
 
-Here are some ideas to get you started:
+A passionate MERN stack developer from India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning DSA , React.
+
+👨‍💻Interested in FullStack and DSA
+
+🔭Currently working on MERN stack
+
+🤝Looking to contribute to Open-source projects
+
+💬 Ask me about DSA ,Bootstrap
+
+📫 How to reach me dkeerthipriya6@gmail.com
+

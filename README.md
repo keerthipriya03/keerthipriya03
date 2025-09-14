@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keerthi Priya Dwarampudi</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<img align="center" alt="coding" width="500" src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmUzNTJneXVsYXR0YWp1eWFuc3JyaGI0cWVndjB1Y2R6eDkzaDJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif">
+<img align="right" alt="coding" width="500" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthipriya03&label=Profile%20views&color=0e75b6&style=flat" alt="keerthipriya03" /> </p>
 
